@@ -1,4 +1,4 @@
-module.exports = {
+window.App = {
   users: [
     {id: 1, name: 'Weezy'}
   ],
